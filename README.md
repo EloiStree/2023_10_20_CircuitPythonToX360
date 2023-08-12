@@ -6,3 +6,6 @@ Search about how I can create a fake x360 controller from Circuit Python that wo
 Stopped because I don't have time for that at the moment.    
 And because I spent time trying to add the trigger without success.  
 Will come back on it eventually.  )
+
+
+Note: Bad new, I learn that Raspberry Pi Pico don't really have bluetooth. It has the ship but not the license. If I understand well. So not BLE
